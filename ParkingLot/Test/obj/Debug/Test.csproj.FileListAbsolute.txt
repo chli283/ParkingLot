@@ -1,0 +1,17 @@
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.execution.desktop.dll
+C:\LCH\OOCamp\Study\Test\bin\Debug\Test.dll
+C:\LCH\OOCamp\Study\Test\bin\Debug\Test.pdb
+C:\LCH\OOCamp\Study\Test\bin\Debug\Study.exe
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.abstractions.dll
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.assert.dll
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.core.dll
+C:\LCH\OOCamp\Study\Test\bin\Debug\Study.pdb
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.assert.pdb
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.assert.xml
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.core.pdb
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.core.xml
+C:\LCH\OOCamp\Study\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\LCH\OOCamp\Study\Test\obj\Debug\Test.dll
+C:\LCH\OOCamp\Study\Test\obj\Debug\Test.pdb
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\LCH\OOCamp\Study\Test\bin\Debug\xunit.runner.utility.desktop.dll

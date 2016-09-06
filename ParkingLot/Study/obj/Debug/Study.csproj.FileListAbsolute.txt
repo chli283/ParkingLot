@@ -1,0 +1,6 @@
+C:\LCH\OOCamp\Study\Study\bin\Debug\Study.exe.config
+C:\LCH\OOCamp\Study\Study\bin\Debug\Study.exe
+C:\LCH\OOCamp\Study\Study\bin\Debug\Study.pdb
+C:\LCH\OOCamp\Study\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+C:\LCH\OOCamp\Study\Study\obj\Debug\Study.exe
+C:\LCH\OOCamp\Study\Study\obj\Debug\Study.pdb

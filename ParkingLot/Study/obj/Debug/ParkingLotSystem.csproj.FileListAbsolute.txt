@@ -1,0 +1,5 @@
+C:\AutoTest\OOBootcamp\ParkingLot\Study\bin\Debug\ParkingLotSystem.exe.config
+C:\AutoTest\OOBootcamp\ParkingLot\Study\bin\Debug\ParkingLotSystem.exe
+C:\AutoTest\OOBootcamp\ParkingLot\Study\bin\Debug\ParkingLotSystem.pdb
+C:\AutoTest\OOBootcamp\ParkingLot\Study\obj\Debug\ParkingLotSystem.exe
+C:\AutoTest\OOBootcamp\ParkingLot\Study\obj\Debug\ParkingLotSystem.pdb

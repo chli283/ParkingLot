@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLotSystem", "Study\ParkingLotSystem.csproj", "{E7983E5B-7548-4ACD-B1BE-49334BB6A826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestParkingLotSystem", "Test\TestParkingLotSystem.csproj", "{EF1C65FD-AA44-4125-91C1-5C68EE3FD382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7983E5B-7548-4ACD-B1BE-49334BB6A826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7983E5B-7548-4ACD-B1BE-49334BB6A826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7983E5B-7548-4ACD-B1BE-49334BB6A826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7983E5B-7548-4ACD-B1BE-49334BB6A826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1C65FD-AA44-4125-91C1-5C68EE3FD382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1C65FD-AA44-4125-91C1-5C68EE3FD382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1C65FD-AA44-4125-91C1-5C68EE3FD382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1C65FD-AA44-4125-91C1-5C68EE3FD382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
